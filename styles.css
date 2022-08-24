@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 450px;
+  min-height: 400px;
   width: 375px;
   padding: 0 20px;
 }
@@ -92,7 +92,7 @@ body {
 }
 
 .cart {
-  margin: 10px;
+  margin: 10px 0;
   align-items: center;
 }
 
